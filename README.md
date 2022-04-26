@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamkumar-mern-dev. My portfolio - [Click here] (https://shubhamkumar-mern-dev.github.io/my-portfolio.github.io/)
+- 👋 Hi, I’m @shubhamkumar-mern-dev. My portfolio - [Click here](https://shubhamkumar-mern-dev.github.io/my-portfolio.github.io/)
 - 👀 I’m interested in Full stack development.
 - 🌱 I’m currently learning Angular.js, React.js, Node.js and Javascript.
 - 💞️ I’m looking to collaborate on Full stack development project.
