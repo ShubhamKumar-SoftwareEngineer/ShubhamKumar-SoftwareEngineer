@@ -4,7 +4,7 @@
 
 - 👨‍💻 My Portfolio - [Click Here](https://shubhamkumar-mern-dev.github.io/my-portfolio.github.io/)
 <h1 align="center">   </h1>
-- 📫 Email me - sk5876170@gmail.com
+- 📫 Email me - shubham.kumar8cse@gmail.com
 <h1 align="center">   </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-mern-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-mern-dev" /> </p>
 
