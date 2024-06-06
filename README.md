@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 👨‍💻 My Portfolio - [Click Here](https://shubhamkumar-mern-dev.github.io/my-portfolio.github.io-main/)
+- 👨‍💻 My Portfolio - [Click Here](https://shubhamkumar-mern-dev.github.io/my-portfolio.github.io/)
 <h1 align="center">   </h1>
 - 📫 Email me - shubham.kumar8cse@gmail.com
 <h1 align="center">   </h1>
