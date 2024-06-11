@@ -4,8 +4,8 @@
 
 - 👨‍💻 My Portfolio - [Click Here](https://shubhamkumar-mern-dev.github.io/my-portfolio.github.io/)
 <h1 align="center">   </h1>
-- 📫 Email me - shubham.kumar8cse@gmail.com
-- 📱 Phone number - 7547818348
+- 📫 Email me - shubham.kumar8cse@gmail.com 
+- 📱 Phone number - (+91) 7547818348
 <h1 align="center">   </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-mern-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-mern-dev" /> </p>
 
