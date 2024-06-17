@@ -26,6 +26,6 @@
 
 
 <!---
-shubhamkumar-mern-dev/shubhamkumar-mern-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hubhamKumar-SoftwareEngineer/ShubhamKumar-SoftwareEngineer is a special repository: its README.md will appear on your profile!
 You can click the Preview link to take a look at your changes.
 --->
