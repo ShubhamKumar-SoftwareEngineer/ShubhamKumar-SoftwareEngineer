@@ -7,7 +7,7 @@
 - 📫 Email me - shubham.kumar8cse@gmail.com 
 - 📱 Phone number - (+91) 7547818348
 <h1 align="center">   </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar-mern-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar-mern-dev" /> </p>
+<p align="left"> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,11 +21,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar-mern-dev&" alt="shubhamkumar-mern-dev" /></p>
 
 
 
 <!---
-hubhamKumar-SoftwareEngineer/ShubhamKumar-SoftwareEngineer is a special repository: its README.md will appear on your profile!
+ShubhamKumar-SoftwareEngineer/ShubhamKumar-SoftwareEngineer is a special repository: its README.md will appear on your profile!
 You can click the Preview link to take a look at your changes.
 --->
