@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 👨‍💻 My Portfolio - [Click Here](https://shubhamkumar-softwareengineer.github.io/my-portfolio.github.io/)
-<h1 align="center">   </h1>
 - 💼 4 years Experience
+<h1 align="center">   </h1>
 - 📫 Email me - shubham.kumar8cse@gmail.com 
 - 📱 Phone number - (+91) 7547818348
 <h1 align="center">   </h1>
