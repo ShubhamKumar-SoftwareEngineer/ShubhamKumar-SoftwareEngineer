@@ -6,6 +6,7 @@
 - 💼 4 years Experience
 <h1 align="center">   </h1>
 - 📫 Email me - shubham.kumar8cse@gmail.com 
+<p align="left"> </p>
 - 📱 Phone number - (+91) 7547818348
 <h1 align="center">   </h1>
 <p align="left"> </p>
